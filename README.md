@@ -40,3 +40,47 @@ O projeto aborda exatamente esse cenário, utilizando **automação para transfo
 + Preenchimento automático de formulários
 + Repetição de tarefas até o fim da base de dados
 + Simulação de ações humanas com mouse e teclado
+
+---
+
+## 📖 Funcionamento da Automação
+
+Ao executar o script, o processo segue os seguintes passos:
+
+- Abre o navegador  
+- Acessa o sistema com login e senha  
+- Lê os dados do arquivo `produtos.csv`  
+- Preenche automaticamente os campos  
+- Envia as informações  
+- Repete o processo até finalizar todos os registros  
+
+---
+
+## 📌 Observação Importante
+
+> ⚠️ Projeto desenvolvido **exclusivamente para fins educacionais**, reproduzido a partir de uma **live da Hashtag Treinamentos**, com o objetivo de aprendizado e prática em automação com Python.
+
+---
+
+## 🤝 Créditos
+
+<div align="center">
+
+Conteúdo apresentado na live da:  
+**🟩 Hashtag Treinamentos**
+
+Reprodução prática e estudos por:  
+**🟩 Érica Bonfanti Corrêa**  
+🔗 https://github.com/EricaBonfanti
+
+---
+
+<sub>Desenvolvido com foco em aprendizado, automação e evolução profissional 🚀</sub>
+
+## 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT.  
+**[Licença MIT](LICENSE)**
+
+</div>
+
